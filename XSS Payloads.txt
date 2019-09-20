@@ -3,7 +3,7 @@
 <!--      Linkedin : https://www.linkedin.com/in/brian-vu-842966193/ -->
 <!--        GitHub : https://github.com/VuBrian22/ -->
 <!--     Instagram : https://www.instagram.com/_exodium_/ -->
-<!--       Website : https://medium.com/@ismailtasdelen -->
+<!--       Website : https://support-brianvu.netlify.com/ -->
 
 <script\x20type="text/javascript">javascript:alert(1);</script>
 <script\x3Etype="text/javascript">javascript:alert(1);</script>
